@@ -1,21 +1,12 @@
-/* .header {
-    padding: 30px;
-    font-size: 40px;
-    text-align: center;
-    background: wheat;
-    opacity: 0.8;
-    border-radius: 12px;
-  } */
-
 ul {
     list-style: none;
 }
 
 .wrapper {
+    margin: auto;
     border-radius: 12px;
     height: auto;
     background: #fff;
-    padding: auto;
 }
 
 nav {
@@ -46,7 +37,7 @@ nav {
     content: "";
     height: 5px;
     width: 0;
-    background: tomato;
+    background: #03989E;
     position: absolute;
     bottom: 0px;
     left: 0;
